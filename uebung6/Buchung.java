@@ -11,5 +11,6 @@ public class Buchung {
 		this.empfaenger = empfaenger;
 		this.zweck = zweck;
 		this.datum = datum;
+		System.out.println("Test");
 	}
 }
